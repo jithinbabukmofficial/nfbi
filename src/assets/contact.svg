@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <filter id="Ellipse_29" x="0" y="0" width="41" height="41" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_270" data-name="Group 270" transform="translate(-21.5 -193.5)">
+    <g transform="matrix(1, 0, 0, 1, 21.5, 193.5)" filter="url(#Ellipse_29)">
+      <circle id="Ellipse_29-2" data-name="Ellipse 29" cx="16" cy="16" r="16" transform="translate(4.5 4.5)" fill="#2e2e2e"/>
+    </g>
+    <path id="Icon_material-call" data-name="Icon material-call" d="M7.517,10.992a12.624,12.624,0,0,0,5.492,5.492l1.833-1.833a.829.829,0,0,1,.85-.2,9.506,9.506,0,0,0,2.975.475.836.836,0,0,1,.833.833v2.908a.836.836,0,0,1-.833.833A14.165,14.165,0,0,1,4.5,5.333.836.836,0,0,1,5.333,4.5H8.25a.836.836,0,0,1,.833.833,9.467,9.467,0,0,0,.475,2.975.836.836,0,0,1-.208.85L7.517,10.992Z" transform="translate(29.5 201.5)" fill="#eabd5b"/>
+  </g>
+</svg>

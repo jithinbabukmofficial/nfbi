@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.503" height="32.503" viewBox="0 0 32.503 32.503">
+  <g id="credit-card" transform="translate(0 -0.004)">
+    <g id="Group_105" data-name="Group 105" transform="translate(7.462 0.004)">
+      <g id="Group_104" data-name="Group 104">
+        <path id="Path_851" data-name="Path 851" d="M131.6.653a2.227,2.227,0,0,0-3.144,0l-10.916,10.9h7.177l8.894-8.894Z" transform="translate(-117.539 -0.004)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_107" data-name="Group 107" transform="translate(17.332 4.009)">
+      <g id="Group_106" data-name="Group 106">
+        <path id="Path_852" data-name="Path 852" d="M287.534,70.055l-6.972-6.964-7.548,7.548h7.744a4.131,4.131,0,0,1,4.126,4.126v1.079l2.65-2.647a2.221,2.221,0,0,0,0-3.143Z" transform="translate(-273.014 -63.091)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_109" data-name="Group 109" transform="translate(15.109 24.762)">
+      <g id="Group_108" data-name="Group 108">
+        <path id="Path_853" data-name="Path 853" d="M240.176,390.376a1.27,1.27,0,1,0,0,1.8A1.266,1.266,0,0,0,240.176,390.376Z" transform="translate(-238.009 -390.005)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_111" data-name="Group 111" transform="translate(19.553 24.762)">
+      <g id="Group_110" data-name="Group 110">
+        <path id="Path_854" data-name="Path 854" d="M310.176,390.376a1.27,1.27,0,1,0,0,1.8A1.265,1.265,0,0,0,310.176,390.376Z" transform="translate(-308.009 -390.005)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_113" data-name="Group 113" transform="translate(0 13.462)">
+      <g id="Group_112" data-name="Group 112">
+        <path id="Path_855" data-name="Path 855" d="M25.076,212H2.222A2.224,2.224,0,0,0,0,214.218v14.6a2.224,2.224,0,0,0,2.222,2.222H25.076a2.224,2.224,0,0,0,2.222-2.222v-14.6A2.224,2.224,0,0,0,25.076,212Zm-6.666,5.079h5.079v1.9H18.41Zm-14.03,0h11.3v1.9H4.38Zm18.686,9.735a3.177,3.177,0,0,1-4.466.022,3.174,3.174,0,1,1,0-4.532,3.178,3.178,0,0,1,4.466.021h0A3.178,3.178,0,0,1,23.067,226.81Z" transform="translate(0 -211.996)" fill="#eabd5b"/>
+      </g>
+    </g>
+  </g>
+</svg>

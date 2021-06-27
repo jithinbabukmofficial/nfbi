@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.847" height="29.238" viewBox="0 0 28.847 29.238">
+  <g id="hotel" transform="translate(-3.423)">
+    <g id="Group_118" data-name="Group 118" transform="translate(11.777)">
+      <g id="Group_117" data-name="Group 117" transform="translate(0)">
+        <path id="Path_859" data-name="Path 859" d="M166.606,1.806V0H153.385V1.815h-3.666V12.73a6.887,6.887,0,0,1,3.6,6.05c0,1.55-1.017,4.08-3.109,7.735q-.249.436-.5.852v1.647h9.435V23.486h1.8v5.529h9.254V1.818Zm-9.254,19.741h-1.8v-1.8h1.8Zm0-3.606h-1.8v-1.8h1.8Zm0-3.523h-1.8v-1.8h1.8Zm3.606,7.129h-1.8v-1.8h1.8Zm0-3.606h-1.8v-1.8h1.8Zm0-3.523h-1.8v-1.8h1.8Zm1.8-4.207h-1.8v-2.1h-1.8v2.1h-1.8V4.2h1.8v2.1h1.8V4.2h1.8Zm1.8,11.335h-1.8v-1.8h1.8Zm0-3.606h-1.8v-1.8h1.8Zm0-3.523h-1.8v-1.8h1.8Z" transform="translate(-149.719)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_120" data-name="Group 120" transform="translate(3.423 13.702)">
+      <g id="Group_119" data-name="Group 119" transform="translate(0)">
+        <path id="Path_860" data-name="Path 860" d="M8.5,239.937a5.084,5.084,0,0,0-5.078,5.078c0,.681.372,2.473,2.865,6.83.818,1.43,1.643,2.744,2.213,3.628.57-.884,1.4-2.2,2.213-3.628,2.493-4.357,2.865-6.149,2.865-6.83A5.084,5.084,0,0,0,8.5,239.937Zm0,8.425a3.347,3.347,0,1,1,3.347-3.347A3.351,3.351,0,0,1,8.5,248.362Z" transform="translate(-3.423 -239.937)" fill="#eabd5b"/>
+      </g>
+    </g>
+    <g id="Group_122" data-name="Group 122" transform="translate(6.956 17.235)">
+      <g id="Group_121" data-name="Group 121">
+        <path id="Path_861" data-name="Path 861" d="M66.845,301.813a1.545,1.545,0,1,0,1.545,1.545A1.546,1.546,0,0,0,66.845,301.813Z" transform="translate(-65.3 -301.813)" fill="#eabd5b"/>
+      </g>
+    </g>
+  </g>
+</svg>

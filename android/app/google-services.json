@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313738430835",
+    "project_id": "nfbi-221c9",
+    "storage_bucket": "nfbi-221c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313738430835:android:971230f403687a10dbdd06",
+        "android_client_info": {
+          "package_name": "com.nfbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313738430835-3rpoc6e25g1j96asrplkbtatk996skc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7L4O1Uv5mPf01xiv-lp6BHPaI4GIl-tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313738430835-3rpoc6e25g1j96asrplkbtatk996skc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

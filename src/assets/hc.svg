@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <filter id="Ellipse_31" x="0" y="0" width="41" height="41" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_233" data-name="Group 233" transform="translate(-26.5 -1036.5)">
+    <g transform="matrix(1, 0, 0, 1, 26.5, 1036.5)" filter="url(#Ellipse_31)">
+      <circle id="Ellipse_31-2" data-name="Ellipse 31" cx="16" cy="16" r="16" transform="translate(4.5 4.5)" fill="#2e2e2e"/>
+    </g>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(39.536 1045.179)">
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M7.482,13.812C4.27,13.812,0,13.275,0,8.633,0,4.641,3.268,0,7.482,0s7.481,4.641,7.481,8.633C14.963,13.275,10.693,13.812,7.482,13.812ZM5.962,7.244a.129.129,0,0,0-.129.129V7.94a.13.13,0,0,0,.041.095L7.641,9.665a.129.129,0,0,0,.086.034h.884A.129.129,0,0,0,8.7,9.476L7.084,7.986a1.457,1.457,0,0,0,1.48-1.369h.565a.128.128,0,0,0,.129-.128V6.061a.129.129,0,0,0-.129-.129H8.5a1.492,1.492,0,0,0-.153-.342h.78a.129.129,0,0,0,.129-.129V5.034a.129.129,0,0,0-.129-.129H5.962a.129.129,0,0,0-.129.129v.479a.128.128,0,0,0,.129.128h.913a.77.77,0,0,1,.653.292H5.962a.129.129,0,0,0-.129.129v.428a.128.128,0,0,0,.129.128h1.7a.736.736,0,0,1-.8.627Z" transform="translate(0 5.83)" fill="#eabd5b"/>
+      <g id="money-bag" transform="translate(3.785)">
+        <g id="Group_89" data-name="Group 89" transform="translate(0 0)">
+          <g id="Group_88" data-name="Group 88" transform="translate(0)">
+            <path id="Path_844" data-name="Path 844" d="M166.613.464a11.849,11.849,0,0,0-6.564,0,.575.575,0,0,0-.335.844l.87,1.558a8,8,0,0,1,5.493,0l.871-1.559A.575.575,0,0,0,166.613.464Z" transform="translate(-159.634 0)" fill="#eabd5b"/>
+          </g>
+        </g>
+        <g id="Group_91" data-name="Group 91" transform="translate(0.29 3.54)">
+          <g id="Group_90" data-name="Group 90" transform="translate(0)">
+            <path id="Path_845" data-name="Path 845" d="M173.279,92.857a6.439,6.439,0,0,0-5.351,0,1.708,1.708,0,0,0-.728,1.422,7.67,7.67,0,0,1,3.407-.867,7.234,7.234,0,0,1,3.407.867A1.707,1.707,0,0,0,173.279,92.857Z" transform="translate(-167.2 -92.276)" fill="#eabd5b"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

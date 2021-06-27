@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <filter id="Ellipse_100" x="0" y="0" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_407" data-name="Group 407" transform="translate(-13.5 -798.5)">
+    <g transform="matrix(1, 0, 0, 1, 13.5, 798.5)" filter="url(#Ellipse_100)">
+      <circle id="Ellipse_100-2" data-name="Ellipse 100" cx="11" cy="11" r="11" transform="translate(4.5 4.5)" fill="#2e2e2e"/>
+    </g>
+    <g id="terms-and-conditions" transform="translate(-29.334 809)">
+      <path id="Path_1576" data-name="Path 1576" d="M355.333,411.618l1.951-1.951h-1.951Z" transform="translate(-295.12 -401.666)" fill="#eabd5b"/>
+      <path id="Path_1577" data-name="Path 1577" d="M62.212,7.415V0H54.334V10h5.293V7.415ZM57.023,1.79h2.5v.586h-2.5ZM55.877,3.249h4.792v.586H55.877Zm0,1.25h4.792v.586H55.877ZM56.492,8h-.615V7.415h.615Zm1.781,0H57.078V7.415h1.195Zm-2.4-1.667V5.749h4.792v.586Z" fill="#eabd5b"/>
+    </g>
+  </g>
+</svg>

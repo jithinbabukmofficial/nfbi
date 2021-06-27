@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <filter id="Ellipse_101" x="0" y="0" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_408" data-name="Group 408" transform="translate(-13.5 -850.5)">
+    <g id="Group_407" data-name="Group 407">
+      <g transform="matrix(1, 0, 0, 1, 13.5, 850.5)" filter="url(#Ellipse_101)">
+        <circle id="Ellipse_101-2" data-name="Ellipse 101" cx="11" cy="11" r="11" transform="translate(4.5 4.5)" fill="#2e2e2e"/>
+      </g>
+    </g>
+    <g id="Group_406" data-name="Group 406">
+      <g id="return-of-investment" transform="translate(-344.688 1050.049)">
+        <path id="Path_1578" data-name="Path 1578" d="M24.94,1.431a4.882,4.882,0,0,0-8.333,3.454A4.885,4.885,0,0,0,20.8,9.721l-.286.287.432.431.948-.949-.832-1.079-.483.373.25.324a4.27,4.27,0,1,1,2.341-.293l.241.561a4.887,4.887,0,0,0,1.53-7.945Z" transform="translate(351.724 -189.005)" fill="#eabd5b"/>
+      </g>
+      <path id="Icon_awesome-rupee-sign" data-name="Icon awesome-rupee-sign" d="M3.034,2.88a.118.118,0,0,0,.118-.118V2.368a.118.118,0,0,0-.118-.118H.118A.118.118,0,0,0,0,2.368v.441a.118.118,0,0,0,.118.118h.84a.711.711,0,0,1,.6.268H.118A.118.118,0,0,0,0,3.314v.394a.118.118,0,0,0,.118.118H1.682A.681.681,0,0,1,.946,4.4H.118A.118.118,0,0,0,0,4.522v.522a.118.118,0,0,0,.038.087l1.626,1.5a.118.118,0,0,0,.08.031h.813a.118.118,0,0,0,.08-.205L1.151,5.086a1.35,1.35,0,0,0,1.363-1.26h.52a.118.118,0,0,0,.118-.118V3.314A.118.118,0,0,0,3.034,3.2H2.456a1.349,1.349,0,0,0-.14-.315Z" transform="translate(27 861.661)" fill="#eabd5b"/>
+    </g>
+  </g>
+</svg>
