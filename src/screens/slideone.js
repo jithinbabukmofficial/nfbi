@@ -16,16 +16,13 @@ const Slideone = ({ navigation }) => {
     }, [])
 
     const getWinners = () => {
-        console.log('called---------')
         Axios.get(`${apiurl}/mobileuser/winners`)
             .then(res => res.data)
             .then(res => {
                 if (res.status) setWinners(res.winners)
-                console.log(res.winners)
             })
             .catch(e => {
                 if (e && e.response && e.response.data) setError(e.response.data)
-                console.log(e)
             })
             .finally(e => setLoading(false))
     }

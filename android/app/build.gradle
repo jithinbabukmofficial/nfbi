@@ -149,8 +149,8 @@ android {
         applicationId "com.nfbi"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 15
-        versionName "1.4"
+        versionCode 17
+        versionName "1.6"
         multiDexEnabled true
     }
     splits {

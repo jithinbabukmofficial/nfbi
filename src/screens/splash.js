@@ -38,7 +38,14 @@ const Splash = ({ navigation }) => {
                         <Image style={styles.icon} source={require('../assets/trusted.svg')} />
                         <Image style={styles.icon} source={require('../assets/iso.svg')} />
                         <Image style={styles.icon} source={require('../assets/certified.svg')} />
-                        <Image style={{ width: width * .25, height: width * .2, marginLeft: 10, resizeMode: 'contain' }} source={require('../assets/assurance.svg')} />
+                        <Image
+                            style={{
+                                width: width * .25,
+                                height: width * .2,
+                                marginLeft: 10,
+                                resizeMode: 'contain'
+                            }}
+                            source={require('../assets/assurance.svg')} />
                     </View>
                 </View>
             </View>

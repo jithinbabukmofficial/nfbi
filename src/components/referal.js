@@ -1,6 +1,6 @@
 import Axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import { Image, StyleSheet, Text, View, FlatList } from 'react-native';
+import { Image, StyleSheet, Text, View, FlatList, ActivityIndicator } from 'react-native';
 import { TouchableWithoutFeedback } from 'react-native-gesture-handler';
 import { useSelector } from 'react-redux';
 import { apiurl, base_url, colors, width } from '../constants/constants';
@@ -10,7 +10,7 @@ const Refereal = ({
     data,
 }) => {
     const [open, setOpen] = useState(false)
-    const [loading, setLoading] = useState(false)
+    const [loading, setLoading] = useState(true)
     const [error, setError] = useState(null)
     const [users, setUsers] = useState([])
 
@@ -25,6 +25,7 @@ const Refereal = ({
 
     // get team
     const getData = async () => {
+        setLoading(true)
         Axios.get(`${apiurl}/mobileuser/getteam/${data.id}`, { headers: { 'auth-token': token } })
             .then(res => res.data)
             .then(res => setUsers(res.users))
@@ -52,7 +53,7 @@ const Refereal = ({
                         <Text numberOfLines={2} style={[styles.itemtext, { fontSize: 12 }]}>{item.name}</Text>
                         <Text style={styles.amount}>{`₹ ${item.amount}`}</Text>
                     </View>} />
-            </View> : open && !loading && <Text style={[cstyles.error, { marginLeft: 15 }]}>No users found</Text>}
+            </View> : open ? loading ? <ActivityIndicator color={colors.primary} size="small" /> : <Text style={[cstyles.error, { marginLeft: 15 }]}>No users found</Text> : null}
         </View>
     )
 };

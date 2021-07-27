@@ -68,6 +68,7 @@ const middlewares = [];
 if (__DEV__) {
   const createDebugger = require('redux-flipper').default;
   middlewares.push(createDebugger());
+  // require('react-native').unstable_enableLogBox();
 }
 
 const store = createStore(persisted, applyMiddleware(...middlewares))

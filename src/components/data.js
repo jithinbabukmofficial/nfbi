@@ -1620,7 +1620,7 @@ export const utilities = [
         title: 'Instant Pancard Application',
         image: require('../assets/pancard.svg'),
         route: 'web',
-        url: 'https://www.incometaxindia.gov.in/Pages/tax-services/apply-for-pan.aspx',
+        url: 'https://www.incometax.gov.in/iec/foportal',
         takelead: false,
         data: []
     },
